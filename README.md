@@ -16,5 +16,5 @@ Easily increments, decrements, and resets numbers with a clean and minimal UI.
 - **CSS3** – Styling & responsive layout  
 - **JavaScript (Vanilla JS)** – DOM manipulation & logic
 
-## 📂 Folder Structure
+
 
