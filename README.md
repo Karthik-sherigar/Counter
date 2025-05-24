@@ -10,11 +10,6 @@ Easily increments, decrements, and resets numbers with a clean and minimal UI.
 - ✨ Smooth transitions and modern UI
 - 🧠 Beginner-friendly code and logic
 
-## 🚀 Live Demo
-
-> [Click here to view the live demo](#)  
-> *(Replace `#` with your deployed app URL, e.g. GitHub Pages, Vercel, or Netlify)*
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Markup structure  
